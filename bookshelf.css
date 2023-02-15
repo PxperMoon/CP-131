@@ -1,0 +1,19 @@
+#back {
+    float:left;
+    padding: left 20px;
+}
+
+#status {
+    float:right;
+    padding: right 20px;
+}
+
+canvas {
+    border-width:5px;
+    border-color:black;
+}
+
+bookshelf {
+    width:480px;
+    height:380px;
+}
